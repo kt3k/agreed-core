@@ -39,6 +39,6 @@
     "is-empty": "^1.0.0",
     "must-call": "^1.0.0",
     "plz-port": "^1.0.0",
-    "power-assert": "^1.4.1"
+    "power-assert": "^1.4.4"
   }
 }
